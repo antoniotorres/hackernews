@@ -6,7 +6,7 @@ import Document, {
   DocumentContext,
 } from "next/document";
 
-const GA_TRACKING_ID = "G-8PTSL4DTSN";
+const GA_TRACKING_ID = "G-V74R1N9CRQ";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
